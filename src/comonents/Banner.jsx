@@ -1,4 +1,5 @@
-import Image from "next/image";
+import Image from 'next/image';
+import banner from '../../public/bannerimg.png'
 
 const Banner = () => {
   return (
@@ -37,11 +38,13 @@ const Banner = () => {
           <div className="relative flex justify-center">
             <div className="absolute w-80 h-80 bg-green-200 rounded-full blur-3xl opacity-40"></div>
 
-            {/* <Image
-              src=""
+            <Image
+              src={banner}
               alt="Qurbani Cow"
+              width={200}
+              height={100}
               className="relative z-10 w-full m object-contain drop-shadow-2xl"
-            > </Image> */}
+            > </Image>
           </div>
         </div>
 

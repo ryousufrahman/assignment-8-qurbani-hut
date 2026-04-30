@@ -5,19 +5,19 @@ const CowCard = ({cow}) => {
     <div className="">
       <div className=" rounded-2xl overflow-hidden shadow  hover:shadow-2xl transition-shadow duration-300 border border-gray-200">
         {/* Animal Image */}
-        <div className="flex  justify-center items-center bg-gray-100  p-4">
+        <div className="flex  justify-center items-center bg-gray-100  p-3">
           <Image
             src={cow.image}
             alt={cow.name}
             width={300}
             height={100}
             
-            className=" object-contain  h-50 w-80 rounded" ></Image>
+            className=" object-contain  h-50 w-85 rounded" ></Image>
           
         </div>
 
         {/* Animal Details */}
-        <div className="p-5 text-center">
+        <div className="p-3 text-center">
           <h2 className="text-2xl font-bold text-gray-800 mb-2">
             {cow.name}
           </h2>
