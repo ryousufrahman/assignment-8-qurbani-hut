@@ -1,3 +1,4 @@
+import AllcowPage from "@/comonents/AllcowPage";
 
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
 
         home
         <button className="btn btn-accent">Click me</button>
+        <AllcowPage></AllcowPage>
       
     </div>
    

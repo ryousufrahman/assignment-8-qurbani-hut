@@ -1,3 +1,4 @@
+import AllcowPage from "@/comonents/AllcowPage";
 
 
 const AllAnimalPage = async () => {
@@ -10,7 +11,7 @@ const AllAnimalPage = async () => {
                 sort
             </div>
             <div>
-                 <h2> cows :</h2>
+                 <AllcowPage></AllcowPage>
             </div>
         </div>
     );
