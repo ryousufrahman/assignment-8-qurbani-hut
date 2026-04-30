@@ -1,6 +1,7 @@
 
 
 const AllAnimalPage = async () => {
+   
     
     return (
         <div>
@@ -9,7 +10,7 @@ const AllAnimalPage = async () => {
                 sort
             </div>
             <div>
-                 
+                 <h2> cows :</h2>
             </div>
         </div>
     );
