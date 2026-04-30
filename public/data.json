@@ -1,3 +1,5 @@
+
+
 [
   {
     "id": 1,
@@ -9,7 +11,7 @@
     "age": 3,
     "location": "Bogura",
     "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural খাবার.",
-    "image": "https://i.postimg.cc/example-cow1.jpg",
+    "image": "https://i.ibb.co.com/RTCpwhQN/5de8a331b0c99d498415b41020787b6a-57d53496cc134.png",
     "category": "Large Animal"
   },
   {
@@ -22,7 +24,7 @@
     "age": 4,
     "location": "Rajshahi",
     "description": "Strong and healthy bull with premium feeding. Perfect for large family Qurbani.",
-    "image": "https://i.postimg.cc/example-cow2.jpg",
+    "image": "https://i.ibb.co.com/ycdnZxPj/BLF-5003-1.png",
     "category": "Large Animal"
   },
   {
@@ -35,7 +37,7 @@
     "age": 5,
     "location": "Pabna",
     "description": "Large white Pabna cow, naturally raised and ideal for Eid-ul-Adha sacrifice.",
-    "image": "https://i.postimg.cc/example-cow3.jpg",
+    "image": "https://i.ibb.co.com/6csJ3HbH/BLF-202992-62b2c4a7d3b5a.png",
     "category": "Large Animal"
   },
   {
@@ -48,7 +50,7 @@
     "age": 4,
     "location": "Khulna",
     "description": "Beautiful black Friesian cross cow with excellent health and large body size.",
-    "image": "https://i.postimg.cc/example-cow4.jpg",
+    "image": "https://i.ibb.co.com/tTN7nR2T/hq72eee.png",
     "category": "Large Animal"
   },
   {
@@ -61,7 +63,7 @@
     "age": 3,
     "location": "Sylhet",
     "description": "Farm-raised hybrid cow with organic feeding and strong build for Qurbani.",
-    "image": "https://i.postimg.cc/example-cow5.jpg",
+    "image": "https://i.ibb.co.com/fdFmVH1H/hq720.png",
     "category": "Large Animal"
   },
   {
@@ -74,7 +76,7 @@
     "age": 4,
     "location": "Dinajpur",
     "description": "Red Chittagong breed known for quality meat and excellent health condition.",
-    "image": "https://i.postimg.cc/example-cow6.jpg",
+    "image": "https://i.ibb.co.com/8ndZTHLt/hq720fffeg.png",
     "category": "Large Animal"
   },
   {
@@ -87,7 +89,7 @@
     "age": 6,
     "location": "Jessore",
     "description": "Massive Sahiwal bull, premium category, ideal for shared Qurbani.",
-    "image": "https://i.postimg.cc/example-cow7.jpg",
+    "image": "https://i.ibb.co.com/rKm23xQR/hq720jjjg.png",
     "category": "Large Animal"
   },
   {
@@ -100,7 +102,7 @@
     "age": 3,
     "location": "Mymensingh",
     "description": "Golden-colored deshi cow with balanced weight and healthy feeding system.",
-    "image": "https://i.postimg.cc/example-cow8.jpg",
+    "image": "https://i.ibb.co.com/Xk8qNWnV/image-3.png",
     "category": "Large Animal"
   },
   {
@@ -113,7 +115,7 @@
     "age": 5,
     "location": "Chattogram",
     "description": "Royal giant Brahman cross cow with outstanding body structure and high demand.",
-    "image": "https://i.postimg.cc/example-cow9.jpg",
+    "image": "https://i.ibb.co.com/nFHxpMp/images3-1.png",
     "category": "Large Animal"
   },
   {
@@ -126,7 +128,7 @@
     "age": 4,
     "location": "Rangpur",
     "description": "Organically raised bull with natural grass feeding and excellent Qurbani suitability.",
-    "image": "https://i.postimg.cc/example-cow10.jpg",
+    "image": "https://i.ibb.co.com/NqYWxxV/white-bovine-ox-grazing-agricultural-field-goa-india-181624-53390.png",
     "category": "Large Animal"
   }
 ]

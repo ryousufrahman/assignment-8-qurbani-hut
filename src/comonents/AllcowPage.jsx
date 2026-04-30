@@ -5,7 +5,8 @@ const AllcowPage = async () => {
     const allcow = await res.json()
     return (
         <div>
-            <h2>{allcow.length}</h2>
+            <h2 className="text-3xl font-bold text-green-500">All animals </h2>
+            <div></div>
         </div>
     );
 };
