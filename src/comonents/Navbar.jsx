@@ -1,4 +1,5 @@
 import Link from "next/link";
+import NavLink from "./NavLink";
 
 const Navbar = () => {
   return (
@@ -12,24 +13,24 @@ const Navbar = () => {
 
           {/* Navigation Links */}
           <div className="hidden md:flex items-center space-x-8">
-            <Link
+            <NavLink
               href={'/'}
-              className="text-gray-700 hover:text-green-700 font-medium transition"
+              className=""
             >
               Home
-            </Link>
-            <Link
+            </NavLink>
+            <NavLink
               href={'/allanimals'}
-              className="text-gray-700 hover:text-green-700 font-medium transition"
+              className=""
             >
               All Animals
-            </Link>
-            <Link
-              href={'/'}
-              className="text-gray-700 hover:text-green-700 font-medium transition"
+            </NavLink>
+            <NavLink
+              href={'/aboutUs'}
+              className=""
             >
              About Us
-            </Link>
+            </NavLink>
           </div>
 
           {/* Signup Button */}
