@@ -6,13 +6,13 @@ const CowCard = ({cow}) => {
       <div className=" rounded-2xl overflow-hidden shadow  hover:shadow-2xl transition-shadow duration-300 border border-gray-200">
         {/* Animal Image */}
         <div className="flex justify-center items-center bg-gray-100  p-4">
-          {/* <Image
+          <Image
             src={cow.image}
             alt={cow.name}
             width='300'
             height='200'
             
-            className=" object-contain rounded-lg " ></Image> */}
+            className=" object-contain rounded-lg " ></Image>
           
         </div>
 
