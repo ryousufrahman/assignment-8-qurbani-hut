@@ -2,17 +2,17 @@ import Image from "next/image";
 
 const CowCard = ({cow}) => {
   return (
-    <div>
+    <div className="">
       <div className=" rounded-2xl overflow-hidden shadow  hover:shadow-2xl transition-shadow duration-300 border border-gray-200">
         {/* Animal Image */}
-        <div className="flex justify-center items-center bg-gray-100  p-4">
+        <div className="flex  justify-center items-center bg-gray-100  p-4">
           <Image
             src={cow.image}
             alt={cow.name}
-            width='300'
-            height='200'
+            width={300}
+            height={100}
             
-            className=" object-contain rounded-lg " ></Image>
+            className=" object-contain  h-50 w-80 rounded" ></Image>
           
         </div>
 
