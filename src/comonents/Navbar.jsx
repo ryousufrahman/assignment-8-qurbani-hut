@@ -28,15 +28,20 @@ const Navbar = () => {
               href={'/'}
               className="text-gray-700 hover:text-green-700 font-medium transition"
             >
-              Info
+             About Us
             </Link>
           </div>
 
           {/* Signup Button */}
-          <div>
+          <div className="flex gap-4">
             <Link href={'/signup'}>
             <button className="bg-green-700 btn hover:bg-green-800 text-white font-semibold  rounded shadow-sm transition">
               Sign Up
+            </button>
+            </Link>
+            <Link href={'/signin'}>
+            <button className="bg-green-700 btn hover:bg-green-800 text-white font-semibold  rounded shadow-sm transition">
+              Sign In
             </button>
             </Link>
           </div>
