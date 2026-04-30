@@ -23,11 +23,11 @@ const Banner = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-              <button className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-4 rounded-xl shadow-md transition duration-300">
+              <button className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-4 rounded btn shadow-md transition duration-300">
                 Browse Animals
               </button>
 
-              <button className="border-2 border-green-600 text-green-600 hover:bg-green-50 font-semibold px-8 py-4 rounded-xl transition duration-300">
+              <button className="border-2 border-green-600 text-green-600 hover:bg-green-50 font-semibold  btn px-8 py-4 rounded transition duration-300">
                 Learn More
               </button>
             </div>

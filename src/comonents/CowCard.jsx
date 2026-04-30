@@ -30,7 +30,7 @@ const CowCard = ({cow}) => {
             ৳{cow.price.toLocaleString()}
           </p>
 
-          <button className="w-full bg-green-600 hover:bg-green-700 text-white font-semibold py-3 rounded-xl transition duration-300">
+          <button className=" btn rounded w-full bg-green-600 hover:bg-green-700 text-white font-semibold   transition duration-300">
             Buy Now
           </button>
         </div>

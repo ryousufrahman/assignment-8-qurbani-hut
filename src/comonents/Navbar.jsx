@@ -2,8 +2,8 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <div>
-      <nav className="w-full bg-white shadow-md border-b border-gray-200">
+    <div className="sticky top-0 z-10 ">
+      <nav className="w-full bg-white shadow ">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           {/* Logo */}
           <div className="text-2xl font-bold text-green-700 tracking-wide">
@@ -25,7 +25,7 @@ const Navbar = () => {
               All Animals
             </Link>
             <Link
-              href={'/info'}
+              href={'/'}
               className="text-gray-700 hover:text-green-700 font-medium transition"
             >
               Info
@@ -35,7 +35,7 @@ const Navbar = () => {
           {/* Signup Button */}
           <div>
             <Link href={'/signup'}>
-            <button className="bg-green-700 hover:bg-green-800 text-white font-semibold px-5 py-2 rounded-2xl shadow-sm transition">
+            <button className="bg-green-700 btn hover:bg-green-800 text-white font-semibold  rounded shadow-sm transition">
               Sign Up
             </button>
             </Link>
